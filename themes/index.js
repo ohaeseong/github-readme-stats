@@ -262,6 +262,12 @@ const themes = {
     icon_color: "a64833",
     text_color: "d9c8a9",
     bg_color: "402b23"
+  },
+  kacho_ga: {
+    title_color: "FF7F50",
+    icon_color: "FFBF00",
+    text_color: "DE3163",
+    bg_color: "CCCCFF"
   }
 };
 
